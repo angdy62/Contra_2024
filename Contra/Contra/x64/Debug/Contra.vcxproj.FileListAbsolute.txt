@@ -1,0 +1,2 @@
+D:\game\Contra\Contra\x64\Debug\Contra.vcxproj.CopyComplete
+C:\Users\Vinh\source\repos\angdy62\Contra_2024\Contra\Contra\x64\Debug\Contra.vcxproj.CopyComplete
